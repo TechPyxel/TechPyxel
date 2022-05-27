@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Orion Charlotte, aka TechPyxel
 - 👀 I’m interested in games and game development
 - 🌱 I’m currently learning game development in Unity and Unreal, focusing on 2D games
-- 💞️ I’m looking to collaborate on game projects that need a mechanics or narrative designer 
+- 💞️ I’m looking to collaborate on game dev projects that need a mechanics or narrative designer 
 - 📫 Reach me at OrionCharlotte2002@gmail.com or at TechPyxel#1329 on Discord
 
 <!---
