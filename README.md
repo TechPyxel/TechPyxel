@@ -1,6 +1,5 @@
-- 👋 Hi, I’m Orion Charlotte, aka TechPyxel
-- 👀 I’m interested in games development and art! 
-- 🌱 I’m currently learning how to develop games in Unity
-- 💞️ I’m looking to collaborate on game dev projects that need a mechanics or narrative designer 
-- 📫 Reach me at OrionCharlotte2002@gmail.com or at TechPyxel#1329 on Discord
-- 👀 See my art on [Artstation](https://orioncharlotte.artstation.com/)
+- 👋 Hi, I’m Orion Emmett, aka TechPyxel
+- 🌱 I’m a game design student focusing on UX/UI and Narrative Design
+- 👀 I also illustrate occasionally! See my art on [Artstation](https://techpyxel.artstation.com/)
+- 📫 Reach me at OrionEmmettRichardson@gmail.com or at TechPyxel#1329 on Discord
+
